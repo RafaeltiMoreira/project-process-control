@@ -1,10 +1,10 @@
-package me.dio.project_process_control;
+package me.dio.project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjectProcessControlApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
